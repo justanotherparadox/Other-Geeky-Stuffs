@@ -1,0 +1,10 @@
+To finish our discussion on how to design a turing machine:
+
+1. https://www.geeksforgeeks.org/construct-turing-machine-l-bm-anm-nm%E2%89%A51/
+2. https://www.geeksforgeeks.org/construct-a-turing-machine-for-l-aibjck-ij-k-i-j-k-%E2%89%A5-1/
+3. https://www.geeksforgeeks.org/construct-turing-machine-l-bm-anm-nm%E2%89%A51/
+4. https://www.geeksforgeeks.org/turing-machine-for-subtraction/
+5. https://www.geeksforgeeks.org/turing-machine-for-subtraction-set-2/
+6. https://www.geeksforgeeks.org/turing-machine-for-copying-data/
+7. https://www.geeksforgeeks.org/construct-turing-machine-language-l-0n1n2n-n%E2%89%A51/
+8. https://www.geeksforgeeks.org/turing-machine-addition/
