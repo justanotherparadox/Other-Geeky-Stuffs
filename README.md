@@ -14,6 +14,8 @@ More on mechanical switches:
 https://www.youtube.com/watch?v=XPbGZRouc8Q
 
 
+Check out this survey:
 
+https://research.hackerrank.com/developer-skills/2018
 
 
