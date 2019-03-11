@@ -107,12 +107,19 @@ https://www.youtube.com/watch?v=3NjQ9b3pgIg -----> How to choose a password
 
 https://www.youtube.com/watch?v=8ZtInClXe1Q -------> How NOT to store passwords
 
+https://www.youtube.com/watch?v=Pe_3cFuSw1E --------> Diceware and Passwords
+
+https://www.youtube.com/watch?v=ZXFYT-BG2So -------> 2FA-Authentication
+
 https://www.youtube.com/watch?v=lVcbq_a5N9I --------> TOR Hidden Services
 
 https://www.youtube.com/watch?v=QRYzre4bf7I -----> Onion Routing 
 
 https://www.youtube.com/watch?v=MijmeoH9LT4 -------> Characters, Symbols and the Unicode Miracle
 
+https://www.youtube.com/watch?v=p8-rZOCn5rQ -------> What's your Favourite Programming Language? (sound check Q)
+
+https://www.youtube.com/watch?v=224plb3bCog -------> Chomsky Hierarchy (VVI)
 
 
 FLOATING POINT NUMBERS
