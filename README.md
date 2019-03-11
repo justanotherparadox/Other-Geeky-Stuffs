@@ -81,9 +81,7 @@ UPCOMING
 
 {
 
-Steve Jobs
-
-For the time being ----> https://www.youtube.com/watch?v=UF8uR6Z6KLc (Steve Jobs' 2005 Stanford Commencement Address)
+Steve Jobs ----> For the time being ----> https://www.youtube.com/watch?v=UF8uR6Z6KLc (Steve Jobs' 2005 Stanford Commencement Address)
 
 Steve Wozniak
 
@@ -101,7 +99,7 @@ https://www.youtube.com/watch?v=yaQZFhrW0fU
 
 Remarks by Naval Adm. William H. McRaven, B.J. '77, ninth commander of U.S. Special Operations Command, Texas Exes Life Member, and Distinguished Alumnus.
 
-Computerphile:
+Computerphile: (Sister Project of Numberphile)
 
 {
 
@@ -135,7 +133,7 @@ https://www.youtube.com/watch?v=RH0o-QjnwDg&list=PLzH6n4zXuckqTQBIEuBTyjsO-Ef756
 
 }
 
-NUMBERPHILE
+NUMBERPHILE: (by Brady Haran) 
 
 {
 
