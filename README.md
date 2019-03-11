@@ -119,7 +119,10 @@ https://www.youtube.com/watch?v=MijmeoH9LT4 -------> Characters, Symbols and the
 
 https://www.youtube.com/watch?v=p8-rZOCn5rQ -------> What's your Favourite Programming Language? (sound check Q)
 
+https://www.youtube.com/watch?v=9TlYteJAwMQ --------> Should Everybody Learn to Code? 
+
 https://www.youtube.com/watch?v=224plb3bCog -------> Chomsky Hierarchy (VVI)
+
 
 
 FLOATING POINT NUMBERS
@@ -145,6 +148,14 @@ NUMBERPHILE: (by Brady Haran)
 {
 
 Upcoming
+
+}
+
+MAP OF DISCIPLINES and FORMAL SCIENCES:
+
+{
+
+
 
 }
 
