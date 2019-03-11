@@ -1,6 +1,8 @@
 # Other-Geeky-Stuffs
 "Sphinx of black quartz, judge my vow"
 
+{
+
 A concise intro to mechanical switches:
 
 https://www.youtube.com/watch?v=B8jX2DpHA5E
@@ -13,6 +15,7 @@ More on mechanical switches:
 
 https://www.youtube.com/watch?v=XPbGZRouc8Q
 
+}
 
 Check out this survey:
 
@@ -22,6 +25,8 @@ https://research.hackerrank.com/developer-skills/2018
 Check this out guys, it hits:
 
 https://www.linkedin.com/pulse/how-your-startups-org-chart-changes-product-tomasz-tunguz/
+
+{
 
 The DAVID RUBENSTEIN SHOW:
 
@@ -57,6 +62,40 @@ https://www.youtube.com/watch?v=mB2V0BXH608  ------> Larry Ellison (CEO of Oracl
 https://www.youtube.com/watch?v=uegOUmgKB4E -------> Elon Musk  (My Favourite....) ----> Waiting for a David Rubenstein interview
 
 https://www.youtube.com/watch?v=AH0IfJDRQ7M -------> Jack Ma (CEO Alibaba) Business oriented....intellectual?
+
+}
+
+{
+
+And, THE SMARTEST GUY....
+
+https://www.youtube.com/watch?v=5WiDIhIkPoM ------> Mark Zuckerberg
+
+https://www.youtube.com/watch?v=QM8l623AouM&t=572s ------> Mark Zuckerberg Harvard Commencement Speech 2017 (Watched 4 times)
+
+}
+
+UPCOMING
+
+{
+
+Steve Jobs
+
+For the time being ----> https://www.youtube.com/watch?v=UF8uR6Z6KLc (Steve Jobs' 2005 Stanford Commencement Address)
+
+Steve Wozniak
+
+Larry Page
+
+Sergey Brin
+
+}
+
+Check this out: (Wanna be The Man)
+
+https://www.youtube.com/watch?v=yaQZFhrW0fU
+
+Remarks by Naval Adm. William H. McRaven, B.J. '77, ninth commander of U.S. Special Operations Command, Texas Exes Life Member, and Distinguished Alumnus.
 
 
 
