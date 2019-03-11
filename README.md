@@ -155,7 +155,17 @@ MAP OF DISCIPLINES and FORMAL SCIENCES:
 
 {
 
+https://www.youtube.com/watch?v=OmJ-4B-mS-Y -------> Map of Mathematics
 
+https://www.youtube.com/watch?v=ZihywtixUYo --------> Map of Physics
+
+https://www.youtube.com/watch?v=SzJ46YA_RaA ---------> Map of Computer Science
+
+https://www.youtube.com/watch?v=P3RXtoYCW4M --------> Map of Chemistry
+
+https://www.youtube.com/watch?v=ohyai6GIRZg --------> Map of Science
+
+https://www.youtube.com/watch?v=wENhHnJI1ys --------> Map of Biology
 
 }
 
