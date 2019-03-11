@@ -26,6 +26,8 @@ Check this out guys, it hits:
 
 https://www.linkedin.com/pulse/how-your-startups-org-chart-changes-product-tomasz-tunguz/
 
+https://research-methodology.net/alphabet-inc-organizational-structure-divisional-and-flat/ ----> in 2015
+
 {
 
 The DAVID RUBENSTEIN SHOW:
@@ -88,6 +90,8 @@ Steve Wozniak
 Larry Page
 
 Sergey Brin
+
+Sundar Pichai
 
 }
 
