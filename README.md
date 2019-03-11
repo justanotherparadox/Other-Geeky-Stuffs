@@ -101,6 +101,51 @@ https://www.youtube.com/watch?v=yaQZFhrW0fU
 
 Remarks by Naval Adm. William H. McRaven, B.J. '77, ninth commander of U.S. Special Operations Command, Texas Exes Life Member, and Distinguished Alumnus.
 
+Computerphile:
+
+{
+
+https://www.youtube.com/watch?v=3NjQ9b3pgIg -----> How to choose a password
+
+https://www.youtube.com/watch?v=8ZtInClXe1Q -------> How NOT to store passwords
+
+https://www.youtube.com/watch?v=lVcbq_a5N9I --------> TOR Hidden Services
+
+https://www.youtube.com/watch?v=QRYzre4bf7I -----> Onion Routing 
+
+https://www.youtube.com/watch?v=MijmeoH9LT4 -------> Characters, Symbols and the Unicode Miracle
+
+
+
+FLOATING POINT NUMBERS
+
+{ 
+
+https://www.youtube.com/watch?v=PZRI1IfStY0 -----> by Tom Scott
+
+https://www.youtube.com/watch?v=f4ekifyijIg ------> Dr. Bagley (Part 1)
+
+https://www.youtube.com/watch?v=782QWNOD_Z0 --------> Dr. Bagley (Part 2)
+
+}
+
+https://www.youtube.com/watch?v=-5wpm-gesOY&t=214s ------->  The Problem with Time & Timezones ( A bit confusing ----> Need to watch again)
+
+https://www.youtube.com/watch?v=RH0o-QjnwDg&list=PLzH6n4zXuckqTQBIEuBTyjsO-Ef7562_Z ------> Markup Languages
+
+}
+
+NUMBERPHILE
+
+{
+
+Upcoming
+
+}
+
+
+
+
 
 
 
