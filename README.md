@@ -99,6 +99,8 @@ https://www.youtube.com/watch?v=yaQZFhrW0fU
 
 Remarks by Naval Adm. William H. McRaven, B.J. '77, ninth commander of U.S. Special Operations Command, Texas Exes Life Member, and Distinguished Alumnus.
 
+https://www.youtube.com/watch?v=7802Gg9w7zU&t=1350s ----> UChicago Davos 2019: "Leading Change" — Satya Nadella, Raghuram Rajan, David Rubenstein, Zhang Xin (Watched it around 5 times)
+
 Computerphile: (Sister Project of Numberphile)
 
 {
