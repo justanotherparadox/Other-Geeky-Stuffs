@@ -34,9 +34,9 @@ The DAVID RUBENSTEIN SHOW:
 
 https://www.youtube.com/watch?v=NUl-a3GZznQ&t=619s ----> Satya Nadella (Watched almost like 7 times)....Love him
 
-https://www.youtube.com/watch?v=KopLe5NZBJc   -----> Steve Balmer (Microsoft's 2nd CEO (before Sacha)).....This guys is crazy and smart as hell. Watch the way he has an influence over interviewers mood.
+https://www.youtube.com/watch?v=KopLe5NZBJc   -----> Steve Ballmer (Microsoft's 2nd CEO (before Sacha)).....This guys is crazy and smart as hell. Watch the way he has an influence over interviewers mood.
 
-https://www.youtube.com/watch?v=qFe0S3F389w ------> Steve Balmer
+https://www.youtube.com/watch?v=qFe0S3F389w ------> Steve Ballmer
 
 https://www.youtube.com/watch?v=KlV0fyDC3Gc&t=868s   ------> Bill Gates
 
