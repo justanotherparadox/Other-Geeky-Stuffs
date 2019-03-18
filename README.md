@@ -83,6 +83,8 @@ UPCOMING
 
 Steve Jobs ----> For the time being ----> https://www.youtube.com/watch?v=UF8uR6Z6KLc (Steve Jobs' 2005 Stanford Commencement Address)
 
+Satya Nadella (Bloomberg Studio) -----> https://www.youtube.com/watch?v=H4bJvp_hEHI
+
 Steve Wozniak
 
 Larry Page
